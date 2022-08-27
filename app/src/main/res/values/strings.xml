@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Employee-ManagementSystem</string>
+    <string name="employee_ID">社員ID<font color="#ff0000">*</font></string>
+    <string name="employee_name">社員名<font color="#ff0000">*</font></string>
+    <string name="section">所属セクション<font color="#ff0000">*</font></string>
+    <string name="mail">メールアドレス<font color="#ff0000">*</font></string>
+    <string name="sex">性別<font color="#ff0000">*</font></string>
+    <string name="require"><font color="#ff0000">*</font>必須項目</string>
+    <string-array name="section_list">
+        <item>シス開</item>
+        <item>グロカル</item>
+        <item>ビジソル</item>
+    </string-array>
+</resources>
