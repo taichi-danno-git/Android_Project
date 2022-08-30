@@ -6,7 +6,9 @@
     <string name="mail">メールアドレス<font color="#ff0000">*</font></string>
     <string name="sex">性別<font color="#ff0000">*</font></string>
     <string name="require"><font color="#ff0000">*</font>必須項目</string>
+    <string name="back_button">＜戻る</string>
     <string-array name="section_list">
+        <item>選択してください</item>
         <item>シス開</item>
         <item>グロカル</item>
         <item>ビジソル</item>
